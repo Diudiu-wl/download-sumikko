@@ -1,0 +1,39 @@
+.back-button {
+    background-color: #ee8bba;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin: 20px auto;
+    display: block; /* 居中*/
+  }
+
+  .sumikko {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 5px;
+    color: black;
+    background-color: white;
+}
+  
+  .back-button:hover {
+    background-color: #f1a2c8;;
+  }
+
+  .tutorial {
+    padding: 10px;
+    margin-left: 100px; 
+    text-align: left;
+  }
+  
+
+  @media (max-width: 768px) {
+    .tutorial {
+      margin-left: 0; 
+      padding: 0 10px; 
+    }
+  }

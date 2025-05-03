@@ -1,0 +1,122 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 50px auto 20px;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  font-size: 18px;
+  color: #666;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+
+button.windows {
+  background-color: #0078D6;
+}
+
+button.macos {
+  background-color: #ee8bba;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+/*下半部分样式*/
+.tutorial {
+  padding: 10px;
+  margin-left: 100px; 
+  text-align: left;
+}
+
+.about-author-container {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  /*text-align: center;*/
+}
+
+.about-button {
+  background-color: #6fc9ec;
+  color: white;
+  border: none;
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.about-button:hover {
+  background-color: #88cef0;
+}
+  
+
+.about-info {
+  position: fixed;
+  top: 50px;
+  right: 10px;
+  padding: 10px 20px;
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 4px;
+  z-index: 10;
+}
+
+.about-info p {
+  margin: 0;
+  padding: 0;
+}
+
+.about-image {
+  width: 180px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+
+@media (max-width: 768px) {
+  .tutorial {
+    margin-left: 0; 
+    padding: 0 10px; 
+  }
+}
+
+.step {
+  margin-bottom: 30px;
+  font-size: 20px;
+  /*font-weight: bold;*/
+}
+
+.step img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-top: 10px;
+}
