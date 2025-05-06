@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/download-sumikko/static/css/main.07ca8a26.css",
+    "main.js": "/download-sumikko/static/js/main.25fd8cc0.js",
+    "index.html": "/download-sumikko/index.html",
+    "main.07ca8a26.css.map": "/download-sumikko/static/css/main.07ca8a26.css.map",
+    "main.25fd8cc0.js.map": "/download-sumikko/static/js/main.25fd8cc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07ca8a26.css",
+    "static/js/main.25fd8cc0.js"
+  ]
+}
