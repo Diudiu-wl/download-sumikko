@@ -13,7 +13,7 @@ const resources = {
         octodownload: "Getting Octopus",
         author: "About the Author",
         about3: "Irregularly updating some things I made myself.",
-        about: "bilibili：丢丢1092",
+        about: "bilibili：塔皮欧不卡",
         about2: "RED：塔皮欧卡",
         entercode: "Please enter the code for getting octopus",
         confirm: "Confirm",
@@ -48,7 +48,7 @@ const resources = {
         s5: "5. Choose 'Later', then close and reopen the software.",
         s6: "That's it! Well done, and enjoy it!",
 
-        wasabi: "wasabi",
+        wasabi: "download",
         kome: "kometsubu",
         gari: "gari",
         
@@ -57,7 +57,7 @@ const resources = {
   zh: {
     translation: {
       //note: "",
-      note: "*由于MacOS的一些特性，MacOS版是分别有三个软件，而Windows则是全在一个软件中，每双击一次即可出现一只角落生物",
+      note: "",
       welcome: "欢迎下载自制角落生物桌宠！",
       describe: "根据你的电脑来下载对应的软件吧！",
       octodescribe: "右键小鱿鱼查看说明书来获得小章鱼的领取码吧！",
@@ -65,7 +65,7 @@ const resources = {
       author: "关于作者",
 
       about3: "不定时更新一些自己做的玩意儿。",
-      about: "b站：丢丢1092",
+      about: "b站：塔皮欧不卡",
       about2: "小红书：塔皮欧卡",
       
       entercode: "请输入领取码",
@@ -101,7 +101,7 @@ const resources = {
       s5: "5. 选择“以后”之后关闭小鱿鱼再重新打开小鱿鱼就行",
       s6: "这样就完成啦，辛苦啦！祝玩得开心！",
 
-      wasabi: "芥末",
+      wasabi: "点击下载",
       kome: "米粒",
       gari: "生姜",
       
@@ -118,7 +118,7 @@ const resources = {
         octodownload: "小タコを受け取る",
         author: "作者について",
         about3: "不定期に自作のものを更新します。",
-        about: "bilibili：丢丢1092",
+        about: "bilibili：塔皮欧不卡",
         about2: "レッド：塔皮欧卡",
         entercode: "受取コードを入力してください",
         confirm: "確認",
@@ -153,7 +153,7 @@ const resources = {
         s5: "5. 「後で」を選択してから、小さなイカちゃんを一度閉じて再度開いてください。",
         s6: "これで完了です！お疲れ様でした！楽しんでくださいね！",
 
-        wasabi: "わさび",
+        wasabi: "ダウンロード",
         kome: "こめつぶ",
         gari: "がり",
     },
