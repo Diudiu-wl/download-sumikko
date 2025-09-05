@@ -90,7 +90,7 @@ function Windows() {
   const handleAboutClick = () => {
     setShowAbout(!showAbout);
     if (!showAbout) {
-      setAboutImage(`${process.env.PUBLIC_URL}/images/author2.png`);  
+      setAboutImage(`${process.env.PUBLIC_URL}/images/author4.png`);  
     } else {
       setAboutImage(null);  
     }

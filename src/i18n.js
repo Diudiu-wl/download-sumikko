@@ -13,8 +13,8 @@ const resources = {
         octodownload: "Getting Octopus",
         author: "About the Author",
         about3: "Irregularly updating some things I made myself.",
-        about: "bilibili：塔皮欧不卡",
-        about2: "RED：塔皮欧卡",
+        about: "bilibili：丢丢1092",
+        about2: "Red Note：塔皮欧卡",
         entercode: "Please enter the code for getting octopus",
         confirm: "Confirm",
         cancel: "Cancel",
@@ -65,7 +65,7 @@ const resources = {
       author: "关于作者",
 
       about3: "不定时更新一些自己做的玩意儿。",
-      about: "b站：塔皮欧不卡",
+      about: "b站：丢丢1092",
       about2: "小红书：塔皮欧卡",
       
       entercode: "请输入领取码",
@@ -118,7 +118,7 @@ const resources = {
         octodownload: "小タコを受け取る",
         author: "作者について",
         about3: "不定期に自作のものを更新します。",
-        about: "bilibili：塔皮欧不卡",
+        about: "bilibili：丢丢1092",
         about2: "レッド：塔皮欧卡",
         entercode: "受取コードを入力してください",
         confirm: "確認",
